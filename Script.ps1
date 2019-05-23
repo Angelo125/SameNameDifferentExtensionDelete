@@ -2,7 +2,7 @@
 # Run with Windows PowerShell
 
 # Extension to keep
-$ExtRetain = ".cso"
+$ExtRetain = ".xxx"
 
 # Path
 $Directory = "Drive:\Dir\"
